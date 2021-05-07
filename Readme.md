@@ -1,15 +1,15 @@
 ### <code>println("Hi there, I'm Erol 👋")</code> 
 
-<!-- 🔭 I’m currently working on <a href="https://github.com/aksoyerol/KotlinAppForMyServer">Kotlin App with Backend .Net Core</a>-->
+<!-- 🔭 I’m currently working on <a href="https://github.com/erolaksoy/KotlinAppForMyServer">Kotlin App with Backend .Net Core</a>-->
 - 🌱 I’m currently learning and developing Android
 - ⚡ Fun fact: I like dreaming about everything
 
-![aksoyerol](https://komarev.com/ghpvc/?username=aksoyerol)
+![erolaksoy](https://komarev.com/ghpvc/?username=erolaksoy)
 
 ## 📫 How to reach me?
 
 [![](https://img.shields.io/twitter/follow/eaksoy113?style=social)](https://www.twitter.com/eaksoy113)
-[![](https://img.shields.io/github/followers/aksoyerol?style=social)](https://www.github.com/aksoyerol)
+[![](https://img.shields.io/github/followers/erolaksoy?style=social)](https://www.github.com/erolaksoy)
 <a href="mailto:erolaksoy98@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="mailto:erolaksoy@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
 <a href="https://linkedin.com/in/erol-aksoy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -17,6 +17,6 @@
 <a href="https://reddit.com/user/pcparticle" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
 
 <div>
-<p style="float:left;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksoyerol&hide=css,html,javascript&theme=vue-dark"/></p>
-<p style="float:right;"><img src="https://github-readme-stats.vercel.app/api?username=aksoyerol&show_icons=true&theme=vue-dark"/></p>
+<p style="float:left;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erolaksoy&hide=css,html,javascript&theme=vue-dark"/></p>
+<p style="float:right;"><img src="https://github-readme-stats.vercel.app/api?username=erolaksoy&show_icons=true&theme=vue-dark"/></p>
 </div>
