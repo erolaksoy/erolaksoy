@@ -1,7 +1,7 @@
 ### <code>println("Hi there, I'm Erol 👋")</code> 
 
 <!-- 🔭 I’m currently working on <a href="https://github.com/erolaksoy/KotlinAppForMyServer">Kotlin App with Backend .Net Core</a>-->
-- 🌱 I’m currently learning and developing Android
+- 🌱 I’m currently developing Android
 - ⚡ Fun fact: I like dreaming about everything
 
 ![erolaksoy](https://komarev.com/ghpvc/?username=erolaksoy)
