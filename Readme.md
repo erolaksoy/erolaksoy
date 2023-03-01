@@ -17,7 +17,7 @@
 <a href="https://reddit.com/user/pcparticle" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
 
 <a href="https://github.com/erolaksoy">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erolaksoy&hide=css,html,javascript&theme=vue-dark"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erolaksoy&hide=css,html,javascript,c%23&theme=vue-dark"/>
 </a>
 
 <a href="https://github.com/erolaksoy">
