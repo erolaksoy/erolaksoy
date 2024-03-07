@@ -4,7 +4,6 @@
 - 🌱 I’m currently developing Android
 - ⚡ Fun fact: I like dreaming about everything
 
-![erolaksoy](https://komarev.com/ghpvc/?username=erolaksoy)
 
 ## 📫 How to reach me?
 
@@ -15,11 +14,3 @@
 <a href="https://linkedin.com/in/erol-aksoy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/eaksoy13" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="eaksoy13"/></a>
 <a href="https://reddit.com/user/pcparticle" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
-
-<a href="https://github.com/erolaksoy">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erolaksoy&hide=css,html,javascript,c%23&theme=vue-dark"/>
-</a>
-
-<a href="https://github.com/erolaksoy">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=erolaksoy&show_icons=true&theme=vue-dark"/>
-</a>
