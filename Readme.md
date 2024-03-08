@@ -1,11 +1,5 @@
 ### <code>println("Hi there, I'm Erol 👋")</code> 
 
-<!-- 🔭 I’m currently working on <a href="https://github.com/erolaksoy/KotlinAppForMyServer">Kotlin App with Backend .Net Core</a>-->
-- 🌱 I’m currently developing Android
-- ⚡ Fun fact: I like dreaming about everything
-
-
-## 📫 How to reach me?
 
 [![](https://img.shields.io/twitter/follow/eaksoy113?style=social)](https://www.twitter.com/eaksoy113)
 [![](https://img.shields.io/github/followers/erolaksoy?style=social)](https://www.github.com/erolaksoy)
